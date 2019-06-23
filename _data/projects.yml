@@ -1,16 +1,31 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# CHGC
+- project: Designing a web application and WeChat official account for CHGC Shanghai
+  role: Primary Developer
+  duration: Apr, 2018 &mdash; Present
+  #url: "https://github.com/xuyanMax/bio"
+  description: <ul class="resume-item-list"><li>Developed a web application using Spring+SpringMVC+Mybatis framework</li><li>Implemented login by QR code for mobile authorization with OAuth2 protocol based on WeChat apis</li><li>Created a JSON tool generating data from database with SurveyJS apis rendering the questionnaire pages</li><li>Implemented the interactive menus and message handling functionality on WeChat official account</li><li>Provided user session control by Redis</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# Machine-Learning
+- project: Machine Learning Fundamentals
+  role: Primary Developer
+  duration: Feb, 2017 &mdash; 2018
+  #url: "https://github.com/xuyanMax/Machine-Learning-Coursera"
+  description: <ul class="resume-item-list"><li>Implemented regularized linear regression and logistic regression programs by Octave</li><li>Implemented a spam classifier based on SVM</li><li>Implemented image compression by K-Means Clustering and used PCA to find a low-dimensional representations of face images</li><li>Built a recommender system for movies through collaborative filtering</li></ul>
+
+- project: Finding the Shortest Path Under Polygonal Obstacle Constraints
+  role: Organizer & Primary Developer
+  duration: Sep, 2017 &mdash; 2018
+  #url: "https://github.com/xuyanMax/A-pathFinder"
+  description: <ul class="resume-item-list"><li>Provided with a road network and required to find the shortest path with a given constraints</li><li>Developed a data processor using R to convert the GIS dataset into CSV files with 42408 nodes, 96850 edges and a polygonal obstacle constraint</li><li>Designed Java programs to the shorted path problem by Dijkstra, Greedy BFS, A* algorithms under the polygonal constraints</li><li>Visualized the real-time path finding process by Leaflet.js and Mapbox.com</li></ul>
+
+
+
+- project: Identifying Individuals in Social Networks for Targeted Advertisement
+  role: Organizer & Developer
+  duration: Sep, 2015 &mdash; Dec, 2015
+  #url: "https://github.com/xuyanMax/A-pathFinder"
+  description: <ul class="resume-item-list"><li>Given an anonymized dataset from Facebook New Orleans network with 63731 nodes and 1545686 edges</li><li>Designed Java programs to the shorted path problem by Dijkstra, Greedy BFS, A* algorithms under the polygonal conImplemented a Java data preprocessor to clean, reduce and merge the friends-link by half and wall-posts datasets</li><li>Distinguished the nodes by Modularity, prevented from overlap by ForceAtlas2 and sized by PageRank</li><li>Recommended the advertisement targets by making a trade-off between highest PageRank scores in terms of friendships and maximum potential in their distinguished communities by several communication characters</li></ul>

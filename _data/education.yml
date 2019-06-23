@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master of Science, Computer Science
+  uni: University of Liverpool
+  year: 2015 &mdash; 2017
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: GPA 3.79/4.0
+#  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Engineering, Telecommunications
+  uni: Xi'an Jiao tong Liverpool University
+  year: 2011 &mdash; 2015
+  awards: 
+    - award: GPA 3.80/4.0
+#  summary: You can choose to have either a single or multiple awards
