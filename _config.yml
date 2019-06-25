@@ -21,13 +21,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 4
   exclude:
     forks: true
     projects:
     # - repo-name
 
-social_media:
+#social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -38,21 +38,21 @@ social_media:
   # telegram: your_username
   # twitter: your_username
   # youtube: your_username
-  instagram: xyx52918
+  # instagram: xyx52918
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Web Development
+    #web_url: https://github.com/topics/css
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  #- name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Machine Learning
+    #web_url: https://github.com/topics/sass
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 
 # Site settings

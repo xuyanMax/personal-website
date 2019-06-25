@@ -12,7 +12,7 @@
 #  description: Copy writing, graphic design, web design, front-end web development, print design
 
 - skill: Programming Languages
-  description: Java, Python, SQL, Linux
+  description: Java, Python, SQL, Bash
 - skill: CS related Skills
   description: Algorithms, Multi-thread, JVM, Redis, Docker
 
