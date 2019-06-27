@@ -1,5 +1,8 @@
 ---
 title: "限量款，与众不同，量力而行"
+categories: blog
+tags: blog
+layout: post
 ---
 
 炒股, 炒鞋, 潮人, 街头, 纹身, 涂鸦, 联名, 都是时尚达人、明星网红热衷的文化. 

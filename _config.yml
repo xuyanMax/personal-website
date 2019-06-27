@@ -7,7 +7,6 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
-
 defaults:
   -
     scope:
@@ -56,7 +55,7 @@ topics:
 
 
 # Site settings
-title: "Xu Yan Resume"
+title: "xyx"
 description: "An online resume."
 
 # Build settings
