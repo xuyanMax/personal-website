@@ -14,7 +14,7 @@
   role: Primary Developer
   duration: Feb, 2017 &mdash; Present
   #url: "https://github.com/xuyanMax/Machine-Learning-Coursera"
-  description: <ul class="resume-item-list"><li>Implemented regularized linear regression and logistic regression programs by Octave</li><li>Implemented a spam classifier based on SVM</li><li>Implemented image compression by K-Means Clustering and used PCA to find a low-dimensional representations of face images</li><li>Built a recommender system for movies through collaborative filtering</li><li>Implemented Convolutional Neural Network in Tensorflow</li></ul>
+  description: <ul class="resume-item-list"><li>Implemented regularized linear regression and logistic regression programs by Octave</li><li>Implemented a spam classifier based on SVM</li><li>Implemented image compression by K-Means Clustering and used PCA to find a low-dimensional representations of face images</li><li>Built a recommender system for movies through collaborative filtering</li><li>Implemented Keras CNN Dog or Cat Classification and achieved accuracy > 95% on both training and testing</li></ul>
 
 - project: Finding the Shortest Path Under Polygonal Obstacle Constraints
   role: Organizer & Primary Developer
