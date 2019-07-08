@@ -3,6 +3,7 @@ title: "贝尔格莱德, 塞尔维亚首府"
 categories: blog travel
 tags: serbia
 layout: post
+published: false
 ---
 
 1990年代塞尔维亚遭受国际经济制裁，本币第纳尔急剧贬值，经济受到严重伤害，现人民币对第纳尔汇率在1:15，最大面额据说是5000，这次我只使用到2000。

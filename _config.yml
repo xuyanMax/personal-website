@@ -20,7 +20,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 4
+  limit: 3
   exclude:
     forks: true
     projects:
@@ -42,14 +42,14 @@ projects:
   # vk: your_username
   # website: http://your_website_url
 
-topics:
-  - name: Web Development
+#topics:
+  #- name: Web Development
     #web_url: https://github.com/topics/css
     #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   #- name: Web design
 
-  - name: Machine Learning
+  #- name: Machine Learning
     #web_url: https://github.com/topics/sass
     #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
@@ -128,7 +128,7 @@ resume_contact_address_hm:         "Stapleton House, 279 Holloway Road, London N
 resume_header_contact_info_hm:     "Stapleton House, 279 Holloway Road, London N7 8FB • +447743007935 • ucbqhad@ucl.ac.uk"
 display_header_contact_info_hm:    "false"
 
-resume_header_intro_hm: "<p>Actively pursuing an Accountant or Consultant position in Shanghai after graduation from UCL Sep. 2019. A quick learner under time constraint. Experience in using accounting software</p>"
+resume_header_intro_hm: "<p>Actively pursuing an Accountant or Consultant position in Shanghai after graduation from UCL on Sep. 2019. A quick learner under time constraint. Experience in using accounting software</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
