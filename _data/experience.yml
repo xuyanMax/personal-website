@@ -3,7 +3,7 @@
 - company: Ericsson Communications Co.,Ltd.
   position: Software Engineer
   duration: Apr, 2018 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Implemented SIP Headers forwarded by vNSDS between NSD client and vSBG by JavaSIP</li><li>Designed Google FCM server role for vNSDS dealing with push notification functions</li><li>Optimized devices battery runtime by 10% through selectively blocking vNSDS from sending push notification</li><li>Contributed shell scripts in logs and data management synchronization among master and slaves</li><li>Performed user requirement analysis, JIRA cases trouble shooting and CPI documentation support</li></ul>
+  summary: <ul class="resume-item-list"><li>Designed a SIP timer to trigger PN by monitering TLS socket connection between UE and NSDS to avoid network internal delay and improve battery optimization</li><li>Designed Google FCM server role for vNSDS dealing with push notification functions</li><li>Optimized devices battery runtime by 10% through selectively blocking vNSDS from sending push notification</li><li>Contributed shell scripts in logs and data management synchronization among master and slaves</li><li>Performed user requirement analysis, JIRA cases trouble shooting and CPI documentation support</li></ul>
 
 # Director of Digital Stratgy
 #- company: United Nations Human Rights Council
